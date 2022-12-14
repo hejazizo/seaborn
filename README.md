@@ -72,4 +72,4 @@ Please submit bugs that you encounter to the [issue tracker](https://github.com/
 How to Contribute
 -----------------
 
-If you would like to contribute to seaborn, please read the [contributing guide](https://seaborn.pydata.org/contributing.html).
+If you would like to contribute to seaborn, please read the contributing guide.
